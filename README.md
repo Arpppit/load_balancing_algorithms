@@ -1,5 +1,5 @@
 ### Course Project - Create and evaluate CloudSim Plus simulations that use different load balancing algorithms
-### Submission By - 82_Arppit Madankar, 33_Sheetal Vishwakarma, 51_Girish Makarwar
+### Submission By - 82_Arppit Madankar, 33_Sheetal Vishwakarma, 51_Utkal Junarkar
 
 
 ### How to run the code:
